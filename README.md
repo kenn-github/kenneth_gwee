@@ -2,7 +2,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: kennethhanjie@gmail.com
+✉️: 
 &nbsp;&nbsp; 📲 +65-91231233
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
